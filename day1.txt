@@ -1,1 +1,3 @@
-Hello devops guy
+hi there again dev guy
+im modifiying the day1.txt
+its intresting exp :)
